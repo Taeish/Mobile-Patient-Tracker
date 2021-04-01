@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838878976381",
+    "project_id": "mobile-patient-tracker",
+    "storage_bucket": "mobile-patient-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838878976381:android:cc26864ff3dd2d54305414",
+        "android_client_info": {
+          "package_name": "com.acpc.patienttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838878976381-kplr5mijch038ua14hdf66vkh1agc6eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYMn2-LTRQ7cmVb7LZvlg3ce1oFpGmwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838878976381-kplr5mijch038ua14hdf66vkh1agc6eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
