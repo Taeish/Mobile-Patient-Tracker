@@ -43,3 +43,4 @@ script:
 - ./gradlew assembleDebug
 - echo "Travis branch is $TRAVIS_BRANCH"
 - echo "Travid branch is in pull request $TRAVIS_PULL+REQUEST"
+repo_token: oZ3tnrT5CHqDvO3LBXXyDJdfURK8EkOcN
